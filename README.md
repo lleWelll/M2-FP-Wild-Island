@@ -20,4 +20,4 @@ Compile project:
 `javac -d "path-where-to-save-compiled-files" $(find ./src -name "*.java")`
 
 Run:
-`java -cp out Main`
+`java -cp "path-where-to-save-compiled-files" Main`
