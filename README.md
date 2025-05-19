@@ -9,6 +9,11 @@ The program uses multithreading to create a living, dynamic environment where pr
 - Animal Life: Animals move, eat, reproduce, and interact with their environment.
 - Statistics Collection: Real-time data about the island's population is gathered and updated.
 
+## Stack:
+| Layer | Technology |
+|-------|------------|
+| Backend | Java, Multithreading |
+
 ## How to Run
 Clone the repository:
 `git clone https://github.com/lleWelll/M2-FP-Wild-Island.git`
